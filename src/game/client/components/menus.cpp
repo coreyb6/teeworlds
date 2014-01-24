@@ -928,7 +928,7 @@ int CMenus::Render()
 		}
 		else if(m_Popup == POPUP_FIRST_LAUNCH)
 		{
-			pTitle = Localize("Welcome to Teeworlds");
+			pTitle = Localize("Welcome to Corey's Modified Teeworlds");
 			pExtraText = Localize("As this is the first time you launch the game, please enter your nick name below. It's recommended that you check the settings to adjust them to your liking before joining a server.");
 			pButtonText = Localize("Ok");
 			ExtraAlign = -1;
